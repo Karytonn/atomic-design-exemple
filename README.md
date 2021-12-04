@@ -16,6 +16,6 @@ $ npm run build
 ![image](https://github.com/Karytonn/atomic-design-exemple/blob/main/atomic-design.jpg?raw=true)
 
 
-## Atomic Design portugues guide
+## Atomic Design portuguese guide 
 
 [pt-br-atomic-design-guide](https://vidadeproduto.com.br/atomic-design/)
