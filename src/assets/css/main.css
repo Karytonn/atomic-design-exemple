@@ -1,0 +1,25 @@
+body {
+  background-color: #eef2f6;
+  font-family: Lato;
+  font-size: 16px;
+}
+
+* {
+  outline: none;
+  margin: 0;
+  padding: 0;
+}
+
+@font-face {
+  font-family: Lato;
+  src: url('~@/assets/fonts/Lato-Regular.ttf');
+  font-weight: 400;
+  font-display: block;
+}
+
+@font-face {
+  font-family: Lato;
+  src: url('~@/assets/fonts/Lato-Bold.ttf');
+  font-weight: 700;
+  font-display: block;
+}
